@@ -4,3 +4,6 @@ A: when working in projects with several people or by yourself but with differen
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 its safe :)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: GitHub would make things waay easier, without it you would have to manually copy all the changes everyone made and such
