@@ -7,3 +7,6 @@ its safe :)
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: GitHub would make things waay easier, without it you would have to manually copy all the changes everyone made and such
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: easier to identify, compare and verify changes
